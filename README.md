@@ -1,3 +1,51 @@
+Alamazing Word Game Mobile App:
+Tech: React Native - Typescript, Android, iOS
+
+A Simple Word Game App,
+a player can select a category (Cities, Foods and Animals) and attempt to guess a randomized word based on the given hint.
+
+A project that showcases a mobile app engineering technology using React Native - Typescript and bundle it with native Android and iOS platform SDKs respectively
+
+Github Repo Link:
+https://github.com/aljabrialam/AlamazingWordGame/tree/master
+Poster Inspiration: https://www.canva.com/
+
+Feel free to check it out #HappyCoding! 👨‍💻
+#ReactNative #Android #iOS #UnitTest #MobileAppEngineer
+
+
+<img src="https://github.com/aljabrialam/AlamazingWordGame/blob/master/screenshots/ALAMAZING-WORD-GAME.png">
+
+<table>
+  <tr>
+     <td>Tap to play</td>
+     <td>Choose a category</td>
+     <td>Choose a category Error</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/aljabrialam/AlamazingWordGame/blob/master/screenshots/1.png" width=250 height=480></td>
+    <td><img src="https://github.com/aljabrialam/AlamazingWordGame/blob/master/screenshots/2.png" width=250 height=480></td>
+    <td><img src="https://github.com/aljabrialam/AlamazingWordGame/blob/master/screenshots/3.png" width=250 height=480>
+    </td>
+  </tr>
+ </table>
+
+
+ <table>
+  <tr>
+     <td>Game Proper</td>
+     <td>Guess the answer</td>
+     <td>Correct Answer</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/aljabrialam/AlamazingWordGame/blob/master/screenshots/4.png" width=250 height=480></td>
+    <td><img src="https://github.com/aljabrialam/AlamazingWordGame/blob/master/screenshots/5.png" width=250 height=480></td>
+    <td><img src="https://github.com/aljabrialam/AlamazingWordGame/blob/master/screenshots/6.png" width=250 height=480>
+    </td>
+  </tr>
+ </table>
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
