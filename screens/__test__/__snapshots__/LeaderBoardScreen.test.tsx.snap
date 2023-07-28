@@ -1,0 +1,386 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LeaderBoardScreen /> renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      {
+        "fontSize": 20,
+        "fontWeight": "500",
+        "justifyContent": "flex-start",
+        "padding": 10,
+        "textAlign": "center",
+        "width": "100%",
+      }
+    }
+  >
+    1/1
+  </Text>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "#D9E7FB",
+          "borderColor": "#d3d6da",
+          "borderWidth": 2,
+          "justifyContent": "center",
+          "marginTop": 120,
+          "paddingBottom": 10,
+          "paddingEnd": 30,
+          "paddingStart": 30,
+          "paddingTop": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "fontSize": 20,
+            },
+            {
+              "margin": 10,
+            },
+          ]
+        }
+      >
+        Words Puzzle
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "flexDirection": "column",
+        "justifyContent": "center",
+        "marginTop": 50,
+      }
+    }
+  >
+    <View>
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#fff",
+            "borderColor": "#d3d6da",
+            "borderRadius": 10,
+            "borderWidth": 2,
+            "height": 50,
+            "marginTop": 10,
+            "paddingEnd": 30,
+            "paddingStart": 30,
+            "width": 240,
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          hitSlop={
+            {
+              "bottom": 30,
+              "left": 30,
+              "right": 30,
+              "top": 30,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "flexDirection": "row",
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "fontSize": 20,
+                "marginTop": 8,
+              }
+            }
+          >
+            Cities
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#fff",
+            "borderColor": "#d3d6da",
+            "borderRadius": 10,
+            "borderWidth": 2,
+            "height": 50,
+            "marginTop": 10,
+            "paddingEnd": 30,
+            "paddingStart": 30,
+            "width": 240,
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          hitSlop={
+            {
+              "bottom": 30,
+              "left": 30,
+              "right": 30,
+              "top": 30,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "flexDirection": "row",
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "fontSize": 20,
+                "marginTop": 8,
+              }
+            }
+          >
+            Foods
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#fff",
+            "borderColor": "#d3d6da",
+            "borderRadius": 10,
+            "borderWidth": 2,
+            "height": 50,
+            "marginTop": 10,
+            "paddingEnd": 30,
+            "paddingStart": 30,
+            "width": 240,
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          hitSlop={
+            {
+              "bottom": 30,
+              "left": 30,
+              "right": 30,
+              "top": 30,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "flexDirection": "row",
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "fontSize": 20,
+                "marginTop": 8,
+              }
+            }
+          >
+            Animals
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#FECBCA",
+        "borderColor": "#d3d6da",
+        "borderWidth": 2,
+        "height": 50,
+        "marginTop": 50,
+        "paddingEnd": 30,
+        "paddingStart": 30,
+        "width": 240,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      hitSlop={
+        {
+          "bottom": 30,
+          "left": 30,
+          "right": 30,
+          "top": 30,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "fontSize": 20,
+            "marginTop": 8,
+          }
+        }
+      >
+        START
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "flexDirection": "column",
+        "justifyContent": "center",
+        "marginTop": 50,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "fontSize": 20,
+        }
+      }
+    >
+      Leaders Board: 
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RadioButton /> renders correctly 1`] = `
+<View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "borderColor": "#d3d6da",
+        "borderRadius": 10,
+        "borderWidth": 2,
+        "height": 50,
+        "marginTop": 10,
+        "paddingEnd": 30,
+        "paddingStart": 30,
+        "width": 240,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      hitSlop={
+        {
+          "bottom": 30,
+          "left": 30,
+          "right": 30,
+          "top": 30,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "fontSize": 20,
+            "marginTop": 8,
+          }
+        }
+      >
+        Cities
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "borderColor": "#d3d6da",
+        "borderRadius": 10,
+        "borderWidth": 2,
+        "height": 50,
+        "marginTop": 10,
+        "paddingEnd": 30,
+        "paddingStart": 30,
+        "width": 240,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      hitSlop={
+        {
+          "bottom": 30,
+          "left": 30,
+          "right": 30,
+          "top": 30,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "fontSize": 20,
+            "marginTop": 8,
+          }
+        }
+      >
+        Foods
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "borderColor": "#d3d6da",
+        "borderRadius": 10,
+        "borderWidth": 2,
+        "height": 50,
+        "marginTop": 10,
+        "paddingEnd": 30,
+        "paddingStart": 30,
+        "width": 240,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      hitSlop={
+        {
+          "bottom": 30,
+          "left": 30,
+          "right": 30,
+          "top": 30,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "fontSize": 20,
+            "marginTop": 8,
+          }
+        }
+      >
+        Animals
+      </Text>
+    </View>
+  </View>
+</View>
+`;

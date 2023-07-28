@@ -1,0 +1,770 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GameScreen /> renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      {
+        "fontSize": 20,
+        "fontWeight": "500",
+        "justifyContent": "flex-start",
+        "padding": 10,
+        "textAlign": "center",
+        "width": "100%",
+      }
+    }
+  >
+    1/2
+  </Text>
+  <Text
+    style={
+      {
+        "fontSize": 13,
+        "fontWeight": "500",
+        "justifyContent": "flex-start",
+        "padding": 20,
+        "textAlign": "left",
+        "width": "100%",
+      }
+    }
+  >
+    Score: 
+    0
+  </Text>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "alignSelf": "auto",
+        "flex": 1,
+        "flexDirection": "row",
+        "flexWrap": "wrap",
+        "justifyContent": "center",
+        "margin": 40,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderColor": "#d3d6da",
+          "borderWidth": 2,
+          "height": 40,
+          "justifyContent": "center",
+          "margin": 3,
+          "width": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "borderBottomColor": "black",
+              "color": "#841584",
+              "fontSize": 20,
+              "width": 20,
+            }
+          }
+        >
+           
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderColor": "#d3d6da",
+          "borderWidth": 2,
+          "height": 40,
+          "justifyContent": "center",
+          "margin": 3,
+          "width": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "borderBottomColor": "black",
+              "color": "#841584",
+              "fontSize": 20,
+              "width": 20,
+            }
+          }
+        >
+           
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderColor": "#d3d6da",
+          "borderWidth": 2,
+          "height": 40,
+          "justifyContent": "center",
+          "margin": 3,
+          "width": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "borderBottomColor": "black",
+              "color": "#841584",
+              "fontSize": 20,
+              "width": 20,
+            }
+          }
+        >
+           
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderColor": "#d3d6da",
+          "borderWidth": 2,
+          "height": 40,
+          "justifyContent": "center",
+          "margin": 3,
+          "width": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "borderBottomColor": "black",
+              "color": "#841584",
+              "fontSize": 20,
+              "width": 20,
+            }
+          }
+        >
+           
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderColor": "#d3d6da",
+          "borderWidth": 2,
+          "height": 40,
+          "justifyContent": "center",
+          "margin": 3,
+          "width": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "borderBottomColor": "black",
+              "color": "#841584",
+              "fontSize": 20,
+              "width": 20,
+            }
+          }
+        >
+           
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderColor": "#d3d6da",
+          "borderWidth": 2,
+          "height": 40,
+          "justifyContent": "center",
+          "margin": 3,
+          "width": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "borderBottomColor": "black",
+              "color": "#841584",
+              "fontSize": 20,
+              "width": 20,
+            }
+          }
+        >
+           
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "flex-start",
+        "flexWrap": "wrap",
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "fontSize": 18,
+          "fontWeight": "500",
+        }
+      }
+    >
+      I swing from tree to tree, and I am very energetic
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "backgroundColor": "#fff",
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "flexWrap": "wrap",
+          "justifyContent": "center",
+          "margin": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#d3d6da",
+            "borderWidth": 2,
+            "height": 40,
+            "justifyContent": "center",
+            "margin": 3,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            {
+              "bottom": 30,
+              "left": 30,
+              "right": 30,
+              "top": 30,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "alignItems": "center",
+                "color": "black",
+                "fontSize": 20,
+                "justifyContent": "center",
+                "width": 20,
+              }
+            }
+          >
+            Y
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#d3d6da",
+            "borderWidth": 2,
+            "height": 40,
+            "justifyContent": "center",
+            "margin": 3,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            {
+              "bottom": 30,
+              "left": 30,
+              "right": 30,
+              "top": 30,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "alignItems": "center",
+                "color": "black",
+                "fontSize": 20,
+                "justifyContent": "center",
+                "width": 20,
+              }
+            }
+          >
+            K
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#d3d6da",
+            "borderWidth": 2,
+            "height": 40,
+            "justifyContent": "center",
+            "margin": 3,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            {
+              "bottom": 30,
+              "left": 30,
+              "right": 30,
+              "top": 30,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "alignItems": "center",
+                "color": "black",
+                "fontSize": 20,
+                "justifyContent": "center",
+                "width": 20,
+              }
+            }
+          >
+            E
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#d3d6da",
+            "borderWidth": 2,
+            "height": 40,
+            "justifyContent": "center",
+            "margin": 3,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            {
+              "bottom": 30,
+              "left": 30,
+              "right": 30,
+              "top": 30,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "alignItems": "center",
+                "color": "black",
+                "fontSize": 20,
+                "justifyContent": "center",
+                "width": 20,
+              }
+            }
+          >
+            O
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#d3d6da",
+            "borderWidth": 2,
+            "height": 40,
+            "justifyContent": "center",
+            "margin": 3,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            {
+              "bottom": 30,
+              "left": 30,
+              "right": 30,
+              "top": 30,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "alignItems": "center",
+                "color": "black",
+                "fontSize": 20,
+                "justifyContent": "center",
+                "width": 20,
+              }
+            }
+          >
+            N
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#d3d6da",
+            "borderWidth": 2,
+            "height": 40,
+            "justifyContent": "center",
+            "margin": 3,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            {
+              "bottom": 30,
+              "left": 30,
+              "right": 30,
+              "top": 30,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "alignItems": "center",
+                "color": "black",
+                "fontSize": 20,
+                "justifyContent": "center",
+                "width": 20,
+              }
+            }
+          >
+            M
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#FECBCA",
+        "borderColor": "#d3d6da",
+        "borderWidth": 2,
+        "height": 50,
+        "marginTop": 50,
+        "paddingEnd": 30,
+        "paddingStart": 30,
+        "width": 240,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      hitSlop={
+        {
+          "bottom": 30,
+          "left": 30,
+          "right": 30,
+          "top": 30,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "fontSize": 20,
+            "marginTop": 8,
+          }
+        }
+      >
+        SKIP
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "flex": 1,
+        "justifyContent": "center",
+      }
+    }
+  />
+</View>
+`;
